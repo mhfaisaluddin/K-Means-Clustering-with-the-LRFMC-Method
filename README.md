@@ -19,4 +19,4 @@ Through the clustering method, we obtain the customer clusters ordered by their 
 
 ## File Description
 - The code .ipnyb, is a jupyter notebook that contain step-by-step performing unsupervised-clustering.
-- The dataset .csv, is the dataset that used in the task, and can be downloaded from this repo or the website (for the updated data). Data source : https://www.kaggle.com/datasets/vinzzhang/aircompanycustomerinfo
+- The dataset .csv, is the dataset that used in this projcet, and can be downloaded from this repo or the website (for the updated data). Data source : https://www.kaggle.com/datasets/vinzzhang/aircompanycustomerinfo
