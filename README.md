@@ -1,4 +1,4 @@
-# unsupervised-clustering
+# K-Means Clustering with the LRFMC Method
 Created to apply K-Means unsupervised learning with the LRFMC method from the paper. The project outline includes data understanding, EDA, preprocessing, modeling, and analysis.
 
 **K-Means clustering** is a method of partitioning data by dividing data into K clusters. Through this grouping, we can differentiate customers, and obtain their characteristics, to optimize the treatment that must be given for efficient business decision-making.
