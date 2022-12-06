@@ -18,5 +18,5 @@ Through the clustering method, we obtain the customer clusters ordered by their 
 5. The Discount Hunter
 
 ## File Description
-- The code .ipnyb, is a jupyter notebook that contain step-by-step performing unsupervised-clustering.
+- The code .ipnyb, is a jupyter notebook that contain step-by-step performing unsupervised-clustering. [Click to view the notebook](https://github.com/mhfaisaluddin/K-Means-Clustering-with-the-LRFMC-Method/blob/main/K-Means%20Clustering%20with%20LRFMC%20Method.ipynb)
 - The dataset .csv, is the dataset that used in this projcet, and can be downloaded from this repo or the website (for the updated data). Data source : https://www.kaggle.com/datasets/vinzzhang/aircompanycustomerinfo
