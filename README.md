@@ -1,5 +1,5 @@
 # K-Means Clustering with the LRFMC Method
-ABC is an air company located in China. The company wants to know **its customer segmentation and get recommendations / actionable insight** so it can deliver its treatment optimally. The project was created to get the clusters by **applying K-Means unsupervised learning** and analyzed with **the LRFMC method** to get the customer value. The project outline includes data understanding, EDA, preprocessing, modeling, and analysis.
+ABC is an aviation company located in China. The company wants to know **its customer segmentation and get recommendations / actionable insight** so it can deliver its treatment optimally. The project was created to get the clusters by **applying K-Means unsupervised learning** and analyzed with **the LRFMC method** to get the customer value. The project outline includes data understanding, EDA, preprocessing, modeling, and analysis.
 
 **K-Means clustering** is a method of partitioning data by dividing data into K clusters. Through this grouping, we can differentiate customers, and obtain their characteristics, to optimize the treatment that must be given for efficient business decision-making.
 
